@@ -1,0 +1,6 @@
+USE `kanban`;
+
+CREATE TABLE `test` (
+    `id` INT(11) NOT NULL AUTO_INCREMENT,
+    PRIMARY KEY (`id`) USING BTREE
+);
